@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Coba</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="new_pack_label">New pack</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi consectetur a augue non tempor. Phasellus ultricies consequat aliquam. Proin dignissim ex mi, sed pulvinar turpis laoreet nec. Suspendisse vitae elit at enim fermentum blandit. Vestibulum et dolor at ante vehicula lacinia ut id tellus. Etiam volutpat vestibulum felis, sed mattis ipsum rhoncus sed. Phasellus condimentum condimentum libero, ac volutpat elit ultricies pulvinar. Ut at luctus eros, a porttitor dolor. Duis ultricies quam ante, nec finibus odio gravida ac. Morbi sagittis ex lacus, non cursus odio accumsan id. Donec convallis faucibus erat ac viverra. Sed dictum erat mi, eu interdum tortor consequat quis. Donec egestas posuere magna, non aliquet risus egestas eget. Mauris ligula ex, laoreet in mollis non, tincidunt pellentesque nisl.</string>
+</resources>

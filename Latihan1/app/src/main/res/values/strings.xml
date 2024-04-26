@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Latihan1</string>
+    <string name="rupiah">Rupiah</string>
+    <string name="convert">Convert</string>
+    <string name="empty_input">Input kosong!</string>
+    <string name="default_text">Masukkan input!</string>
+</resources>

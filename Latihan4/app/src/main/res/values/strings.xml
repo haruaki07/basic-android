@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Latihan4</string>
+    <string name="hello">Hello Worasjdnaidoqiwj qijoiad</string>
+    <string name="fishing_spot">Spot Mancing</string>
+    <string name="knowledge">Wawasan</string>
+    <string name="shop">Toko</string>
+    <string name="tips_trick"><![CDATA[Tips & Trik]]></string>
+    <string name="desc">Deskripsi</string>
+    <string name="fishing_spot_desc">Temukan spot memancing terbaik di sekitar Anda! Jelajahi peta interaktif yang menampilkan lokasi-lokasi memancing lengkap dengan informasi seperti jenis ikan, kedalaman perairan, waktu terbaik untuk memancing, dan banyak lagi.</string>
+    <string name="knowledge_desc">Tingkatkan keterampilan dan pengetahuan memancing Anda! Dapatkan informasi lengkap seputar dunia memancing mulai dari jenis-jenis ikan, peralatan memancing, spot-spot memancing terbaik, hingga tips dan trik memancing di perairan tawar maupun laut.</string>
+    <string name="shop_desc">Lengkapi perlengkapan memancing Anda di toko kami! Tersedia berbagai peralatan berkualitas untuk pengalaman memancing yang lebih maksimal.</string>
+    <string name="tips_trick_desc">Tingkatkan hasil tangkapan Anda dengan tips dan trik memancing dari para master! Temukan berbagai panduan berharga untuk meningkatkan keterampilan dan keberhasilan memancing di perairan manapun.</string>
+</resources>
